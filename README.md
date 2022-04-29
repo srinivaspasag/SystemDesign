@@ -13,3 +13,7 @@ Photon paper - https://static.googleusercontent.com/media/research.google.com/en
 
 Read multiple times and focus more on edge cases on above papers
 Identify large systemic constraints early in design will help in unknown/unfamiliar problems
+
+
+DevOp books:
+https://aaftabhamdani.blogspot.com/p/free-ebooks.html?m=1
