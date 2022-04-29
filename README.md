@@ -1,5 +1,6 @@
 # SystemDesign
 GFS paper - https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+
 Spanner paper - https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
 
 Dynamo paper - http://www.cs.cornell.edu/courses/cs5414/2017fa/papers/dynamo.pdf
