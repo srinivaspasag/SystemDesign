@@ -1,0 +1,53 @@
+
+Designing a Social Network
+
+Questions to ask?
+What are the constraints 
+- 300 Users 
+- 100 DAU
+- 200 M daily posts 
+300ms Latency 
+300 posts 
+
+
+FR:
+- Search Field
+- User Feeds 
+
+NFR:
+- HA 
+- Highly consistens 
+
+
+DataBase : 
+- Decided to use SQL table 
+User:
+Id      |8 bytes 
+Email   |128 Bytes 
+Fullname|128 Bytes 
+Preferencess|512 elemnts
+
+Metadata
+
+HLD:
+
+
+
+News feed cache:
+- Data Structure 
+priority contains - 300 Queues 
+
+
+Search Index:
+----
+  Data Structure 
+  - we use prefix tree - Trie 
+    every char inside a node a tree and then it links to subsequent links 
+    
+    TreeNode:
+      - Vslue - 1byte 
+      Childremn - 26*4 
+      Location_on-server - 8 bytes
+  
+https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/social_graph#design-the-data-structures-for-a-social-network
+
