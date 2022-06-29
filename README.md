@@ -17,3 +17,11 @@ Identify large systemic constraints early in design will help in unknown/unfamil
 
 DevOp books:
 https://aaftabhamdani.blogspot.com/p/free-ebooks.html?m=1
+
+Questions:
+Amazon L5: design a warehouse inventory system
+Amazon L5: design a new AWS service for doing marketing analytics/analysis on either customer-provided data or free 3rd party data that we provide
+Snapchat L4: design a web crawler
+Pinterest L4: design a rate limiter/request throttler
+DocuSign P4: design Wikipedia but with the cross-article links coming from a 3rd party JS script
+Qualtrics Sr SDE: design an ad click analytics service, like Google Analytics
